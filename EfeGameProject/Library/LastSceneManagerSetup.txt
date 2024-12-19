@@ -1,0 +1,6 @@
+sceneSetups:
+- path: Assets/Proxy Games/Stylized Nature Kit Lite/Scenes/Main Demo Scene/Main Demo
+    Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
